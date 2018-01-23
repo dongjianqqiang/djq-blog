@@ -8,4 +8,4 @@
 
 # 日记篇
 
-[meta](https://github.com/laizimo/zimo-article/issues/12)
+[实用meta标签](https://github.com/djq1996/blog/issues/1)
