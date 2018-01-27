@@ -9,3 +9,11 @@
 # 日记篇
 
 [实用meta标签](https://github.com/djq1996/blog/issues/1)
+[避坑记事](https://github.com/djq1996/blog/issues/2)
+
+# http
+[99%的get和post理解错误](https://github.com/djq1996/blog/issues/3)
+
+# 浏览器
+
+[与前端密切相关的浏览器进程与线程--渲染进程](https://github.com/djq1996/blog/issues/4)
