@@ -18,3 +18,13 @@
 # 浏览器
 
 [与前端密切相关的浏览器进程与线程--渲染进程](https://github.com/djq1996/blog/issues/4)
+
+# JavaScript
+
+[]()
+
+# ES6
+[ES6大纲](https://github.com/djq1996/djq-blog/issues/8)
+
+# 实用JavaScript代码段
+[实用代码带](http://codebay.cn/post/7452.html)
