@@ -6,25 +6,31 @@
 
 
 
-# 日记篇
+## 日记篇
 
 [实用meta标签](https://github.com/djq1996/blog/issues/1)
 
 [避坑记事](https://github.com/djq1996/blog/issues/2)
 
-# http
+## http
 [99%的get和post理解错误](https://github.com/djq1996/blog/issues/3)
 
-# 浏览器
+## 浏览器
 
 [与前端密切相关的浏览器进程与线程--渲染进程](https://github.com/djq1996/blog/issues/4)
 
-# JavaScript
+## JavaScript
 
 []()
 
-# ES6
+## ES6
 [ES6大纲](https://github.com/djq1996/djq-blog/issues/8)
 
-# 实用JavaScript代码段
+## 实用JavaScript代码段
 [实用代码带](http://codebay.cn/post/7452.html)
+
+## js框架
+
+### vue
+
+[vue学习文档](https://github.com/djq1996/blog/issues/8)
