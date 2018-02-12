@@ -26,6 +26,8 @@
 ## ES6
 [ES6大纲](https://github.com/djq1996/djq-blog/issues/8)
 
+[ES6 - new Set](https://github.com/djq1996/djq-blog/issues/11)
+
 ## 实用JavaScript代码段
 [实用代码带](http://codebay.cn/post/7452.html)
 
