@@ -33,4 +33,4 @@
 
 ### vue
 
-[vue学习文档](https://github.com/djq1996/blog/issues/8)
+[vue学习文档](https://github.com/djq1996/blog/issues/9)
