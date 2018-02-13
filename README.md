@@ -13,6 +13,7 @@
 [避坑记事](https://github.com/djq1996/blog/issues/2)
 
 ## http
+
 [99%的get和post理解错误](https://github.com/djq1996/blog/issues/3)
 
 ## 浏览器
@@ -24,11 +25,17 @@
 []()
 
 ## ES6
+
 [ES6大纲](https://github.com/djq1996/djq-blog/issues/8)
 
-[ES6 - new Set](https://github.com/djq1996/djq-blog/issues/11)
+[ES6 - new Set()](https://github.com/djq1996/djq-blog/issues/11)
+
+[ES6 - new Map()](https://github.com/djq1996/djq-blog/issues/12)
+
+[ECMAScript 6 入门手册](http://es6.ruanyifeng.com/#README)
 
 ## 实用JavaScript代码段
+
 [实用代码带](http://codebay.cn/post/7452.html)
 
 ## js框架
