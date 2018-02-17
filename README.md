@@ -22,7 +22,7 @@
 
 ## JavaScript
 
-[]()
+[function 对象属性](https://github.com/djq1996/djq-blog/issues/14)
 
 ## ES6
 
@@ -32,11 +32,14 @@
 
 [ES6 - new Map()](https://github.com/djq1996/djq-blog/issues/12)
 
+[ES6 - 扩展运算符(...)](https://github.com/djq1996/djq-blog/issues/13)
+
 [ECMAScript 6 入门手册](http://es6.ruanyifeng.com/#README)
 
 ## 实用JavaScript代码段
 
 [实用代码带](http://codebay.cn/post/7452.html)
+
 
 ## js框架
 
