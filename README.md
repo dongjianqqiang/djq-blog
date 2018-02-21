@@ -24,6 +24,9 @@
 
 [function 对象属性](https://github.com/djq1996/djq-blog/issues/14)
 
+[正则速记](https://github.com/djq1996/djq-blog/issues/15)
+
+
 ## ES6
 
 [ES6大纲](https://github.com/djq1996/djq-blog/issues/8)
