@@ -24,6 +24,8 @@
 
 [function 对象属性](https://github.com/djq1996/djq-blog/issues/14)
 
+[splice,slice,split](https://github.com/djq1996/djq-blog/issues/16)
+
 [正则速记](https://github.com/djq1996/djq-blog/issues/15)
 
 
