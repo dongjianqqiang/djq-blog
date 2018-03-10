@@ -25,6 +25,7 @@
 
 [正则速记](https://github.com/djq1996/djq-blog/issues/15)
 
+[事件委托示例](https://github.com/djq1996/djq-blog/issues/19)
 
 ## ES6
 
