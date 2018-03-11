@@ -13,6 +13,9 @@
 
 [99%的get和post理解错误](https://github.com/djq1996/blog/issues/3)
 
+[淡定面对跨域](https://juejin.im/entry/5a2f93266fb9a04509097a37)
+
+
 ## 浏览器
 
 [与前端密切相关的浏览器进程与线程--渲染进程](https://github.com/djq1996/blog/issues/4)
