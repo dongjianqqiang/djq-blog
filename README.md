@@ -9,6 +9,10 @@
 
 [避坑记事](https://github.com/djq1996/blog/issues/2)
 
+[mac 配置 git密匙 ssh ](https://github.com/djq1996/blog/issues/20)
+
+[Git 命令操作 ](https://github.com/djq1996/blog/issues/21)
+
 ## http
 
 [99%的get和post理解错误](https://github.com/djq1996/blog/issues/3)
