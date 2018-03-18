@@ -2,28 +2,6 @@
 ### Hello，大家好，issues中有我的文章。喜欢的话欢迎star
 
 
-
-## 日记篇
-
-[实用meta标签](https://github.com/djq1996/blog/issues/1)
-
-[避坑记事](https://github.com/djq1996/blog/issues/2)
-
-[mac 配置 git密匙 ssh ](https://github.com/djq1996/blog/issues/20)
-
-[Git 命令操作 ](https://github.com/djq1996/blog/issues/21)
-
-## http
-
-[99%的get和post理解错误](https://github.com/djq1996/blog/issues/3)
-
-[淡定面对跨域](https://juejin.im/entry/5a2f93266fb9a04509097a37)
-
-
-## 浏览器
-
-[与前端密切相关的浏览器进程与线程--渲染进程](https://github.com/djq1996/blog/issues/4)
-
 ## JavaScript
 
 [function 对象属性](https://github.com/djq1996/djq-blog/issues/14)
@@ -57,9 +35,33 @@
 
 [vue学习文档](https://github.com/djq1996/blog/issues/9)
 
+
+
 ### Angular
 
 [Angular学习文档](https://github.com/djq1996/blog/issues/17)
 
 [AngularCli学习文档](https://github.com/djq1996/blog/issues/18)
 
+
+
+## 日记篇
+
+[实用meta标签](https://github.com/djq1996/blog/issues/1)
+
+[避坑记事](https://github.com/djq1996/blog/issues/2)
+
+[mac 配置 git密匙 ssh ](https://github.com/djq1996/blog/issues/20)
+
+[Git 命令操作 ](https://github.com/djq1996/blog/issues/21)
+
+## http
+
+[99%的get和post理解错误](https://github.com/djq1996/blog/issues/3)
+
+[淡定面对跨域](https://juejin.im/entry/5a2f93266fb9a04509097a37)
+
+
+## 浏览器
+
+[与前端密切相关的浏览器进程与线程--渲染进程](https://github.com/djq1996/blog/issues/4)
