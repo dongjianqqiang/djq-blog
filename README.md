@@ -71,3 +71,9 @@
 [简单,强大,方便命令](https://github.com/djq1996/blog/issues/22)
 
 [git 命令行配置别名](https://github.com/djq1996/blog/issues/23)
+
+## Mac 技巧
+
+
+
+
