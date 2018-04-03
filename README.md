@@ -30,7 +30,7 @@
 
 ## CSS 
 
-[css 笔记](https://github.com/djq1996/blog/issues/25)
+[css 笔记](https://github.com/djq1996/blog/issues/24)
 
 ## js框架
 
