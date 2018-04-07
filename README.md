@@ -22,6 +22,8 @@
 
 [ES6 - 扩展运算符(...)](https://github.com/djq1996/djq-blog/issues/13)
 
+[ES6 - 会这些就够了](https://juejin.im/post/5abf531d6fb9a028dc412419)
+
 [ECMAScript 6 入门手册](http://es6.ruanyifeng.com/#README)
 
 ## 实用JavaScript代码段
