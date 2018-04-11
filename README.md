@@ -29,6 +29,9 @@
 
 [ECMAScript 6 入门手册](http://es6.ruanyifeng.com/#README)
 
+[map,reduce妙用](https://github.com/djq1996/djq-blog/issues/25)
+
+
 ## 实用JavaScript代码段
 
 [实用代码带](http://codebay.cn/post/7452.html)
