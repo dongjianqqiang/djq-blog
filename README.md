@@ -12,6 +12,9 @@
 
 [事件委托示例](https://github.com/djq1996/djq-blog/issues/19)
 
+[闭包，你是真的美](https://mp.weixin.qq.com/s/w6vtbt8D3dQza3KVwmjm-A)
+
+
 ## ES6
 
 [ES6大纲](https://github.com/djq1996/djq-blog/issues/8)
