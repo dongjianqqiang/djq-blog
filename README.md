@@ -54,6 +54,8 @@
 
 [AngularCli学习文档](https://github.com/djq1996/blog/issues/18)
 
+[Angular4 Pipe 管道筛选](http://ghmagical.com/article/page/id/omIoPb1AIBPu)
+
 
 
 ## 日记篇
