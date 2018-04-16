@@ -23,6 +23,8 @@
 
 [ES6 - new Map()](https://github.com/djq1996/djq-blog/issues/12)
 
+[ES6 - Promise](https://github.com/djq1996/djq-blog/issues/26)
+
 [ES6 - 扩展运算符(...)](https://github.com/djq1996/djq-blog/issues/13)
 
 [ES6 - 会这些就够了](https://juejin.im/post/5abf531d6fb9a028dc412419)
