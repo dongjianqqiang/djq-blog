@@ -68,7 +68,6 @@
 
 [mac 配置 git密匙 ssh ](https://github.com/djq1996/blog/issues/20)
 
-[Git 命令操作 ](https://github.com/djq1996/blog/issues/21)
 
 ## http
 
@@ -87,9 +86,11 @@
 
 [git 命令行配置别名](https://github.com/djq1996/blog/issues/23)
 
-## Mac 技巧
 
-## Node JS
+## Git
+
+
+[Git 命令操作 ](https://github.com/djq1996/blog/issues/21)
 
 ## HTML5
 
@@ -97,6 +98,10 @@
 
 [Web Sql概览](https://github.com/djq1996/blog/issues/27)
 
+[Web Sql 语法](https://github.com/djq1996/blog/issues/28)
 
+## Mac 技巧
+
+## Node JS
 
 
