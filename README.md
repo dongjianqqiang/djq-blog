@@ -98,7 +98,7 @@
 
 [Web Sql概览](https://github.com/djq1996/blog/issues/27)
 
-[Web Sql 语法](https://github.com/djq1996/blog/issues/28)
+[Web Sql 语法 分组](https://github.com/djq1996/blog/issues/28)
 
 ## Mac 技巧
 
