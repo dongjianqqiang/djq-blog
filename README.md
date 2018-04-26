@@ -14,6 +14,7 @@
 
 [闭包，你是真的美](https://mp.weixin.qq.com/s/w6vtbt8D3dQza3KVwmjm-A)
 
+[for循环异步解决方案](https://github.com/djq1996/djq-blog/issues/29)
 
 ## ES6
 
