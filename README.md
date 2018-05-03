@@ -49,6 +49,8 @@
 
 [vue学习文档](https://github.com/djq1996/blog/issues/9)
 
+[当面试官问你Vue响应式原理，你可以这么回答他](https://juejin.im/post/5adf0085518825673123da9a)
+
 
 
 ### Angular
