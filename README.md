@@ -61,6 +61,8 @@
 
 [Angular4 Pipe 管道筛选](http://ghmagical.com/article/page/id/omIoPb1AIBPu)
 
+[Angular 修仙之路](https://segmentfault.com/a/1190000008754631)
+
 ## 打包发布
 
 ## webpack
