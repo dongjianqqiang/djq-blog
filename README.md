@@ -93,11 +93,12 @@
 
 [简单,强大,方便命令](https://github.com/djq1996/blog/issues/22)
 
-[git 命令行配置别名](https://github.com/djq1996/blog/issues/23)
+
 
 
 ## Git
 
+[git 命令行配置别名](https://github.com/djq1996/blog/issues/23)
 
 [Git 命令操作 ](https://github.com/djq1996/blog/issues/21)
 
@@ -115,7 +116,7 @@
 
 [Node Fs](https://github.com/djq1996/blog/issues/30)
 
-## js 导出Excel表格
+## 导出Excel表格
 
-[Node Fs](https://github.com/djq1996/blog/issues/31)
+[xlsx js](https://github.com/djq1996/blog/issues/31)
 
