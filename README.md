@@ -1,5 +1,5 @@
-# blog
-### Hello，大家好，issues中有我的文章。喜欢的话欢迎star
+# My blog
+### 大家好，issues中有我的文章。喜欢的话欢迎star
 
 
 ## JavaScript
@@ -120,3 +120,8 @@
 
 [xlsx js](https://github.com/djq1996/blog/issues/31)
 
+## 微信小程序
+
+[手把手教你做小程序](https://blog.csdn.net/rolan1993/article/details/78801052)
+
+[小程序父子传值](https://blog.csdn.net/susuzhe123/article/details/80287540)
