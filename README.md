@@ -127,3 +127,5 @@
 [手把手教你做小程序](https://blog.csdn.net/rolan1993/article/details/78801052)
 
 [小程序父子传值](https://blog.csdn.net/susuzhe123/article/details/80287540)
+
+[小程序注意事项](https://juejin.im/post/5b0ccd4e51882515861d2347)
