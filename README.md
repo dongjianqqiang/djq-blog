@@ -116,6 +116,8 @@
 
 [Node Fs](https://github.com/djq1996/blog/issues/30)
 
+[Node 学习例子](https://github.com/chyingp/nodejs-learning-guide/blob/master/README.md)
+
 ## 导出Excel表格
 
 [xlsx js](https://github.com/djq1996/blog/issues/31)
